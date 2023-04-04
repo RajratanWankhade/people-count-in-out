@@ -6,7 +6,7 @@ Install packages in thonny 1:opencv-python
                            2:yolov5
                            3:yolov8
                            
-Run test file in Thonny to check the resuls                           
+Run test file in Thonny to check the results                           
 
 
 
